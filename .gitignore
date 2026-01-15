@@ -205,3 +205,5 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+.gemma_3n_Swahili_E2B_text_finetuning.ipynb
